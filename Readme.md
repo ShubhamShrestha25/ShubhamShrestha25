@@ -5,7 +5,7 @@ portfolio: http://shubham-shrestha.netlify.app/
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: Learning MERN stack
+- 🥅 2023 Goals: Learning MERN stack
 - ⚡ Fun fact: I love to play games and code
 
 ### Spotify Playing 🎧
